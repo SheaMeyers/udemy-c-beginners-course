@@ -1,0 +1,8 @@
+# Object files
+*.o
+
+# Executables
+*.out
+
+# IDE
+.DS_Store
